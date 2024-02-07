@@ -20,7 +20,10 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Source.cpp" />
+    <ClCompile Include="Sand-Game\Source.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Sand-Game\x.bmp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
